@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-image: url(aaa.jpg);
+    background-position: left;
+}
+
+h1{
+    color: gold;
+}
+
+h2{
+    color: gold;
+}
+
+table{
+    text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
+    color: lightcoral;
+}
